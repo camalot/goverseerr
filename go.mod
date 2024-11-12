@@ -1,4 +1,4 @@
-module github.com/willfantom/goverseerr
+module github.com/camalot/goverseerr
 
 go 1.19
 
